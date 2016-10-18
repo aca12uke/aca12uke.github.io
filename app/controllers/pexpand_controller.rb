@@ -1,4 +1,4 @@
 class PexpandController < ApplicationController
-  def homepage
+  def index
   end
 end
